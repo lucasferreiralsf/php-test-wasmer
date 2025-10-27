@@ -1,2 +1,2 @@
-<?php print("Hello 👋, from Wasmer Edge! Test update 3"); ?>
+<?php print("Hello 👋, from Wasmer Edge! Test update 4"); ?>
 
